@@ -13,6 +13,9 @@ A Telegram bot that provides personalized mood-based suggestions, conversation o
 
 ![Bot Flowchart](FlowChart.png)
 
+## Demo
+https://youtu.be/YmLPPfxwxNA
+
 ## Commands
 
 - `/start` - Welcome message and introduction
