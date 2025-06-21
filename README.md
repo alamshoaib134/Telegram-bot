@@ -31,7 +31,7 @@ A Telegram bot that provides personalized mood-based suggestions, conversation o
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/telegram-ai-mood-bot.git
+   git clone https://github.com/alamshoaib134/Telegram-bot.git
    cd telegram-ai-mood-bot
    ```
 
@@ -59,10 +59,6 @@ A Telegram bot that provides personalized mood-based suggestions, conversation o
 - This bot uses Databricks Llama 3 for AI responses.
 - For production, use a secure method to store API keys and a proper database for user data.
 
-## License
-
-MIT License
-
 ---
 
-*Created by [yourusername](https://github.com/yourusername)*
+*Created by [alamshoaib134](https://github.com/alamshoaib134)*
