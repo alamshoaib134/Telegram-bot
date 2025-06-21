@@ -13,8 +13,9 @@ A Telegram bot that provides personalized mood-based suggestions, conversation o
 
 ![Bot Flowchart](FlowChart.png)
 
-## Demo
-[![Watch the demo]<iframe width="560" height="315" src="https://www.youtube.com/embed/YmLPPfxwxNA?si=Q2acexyAd08M4AvZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## Watch the Demo
+[![Watch the demo](https://img.youtube.com/vi/YmLPPfxwxNA/hqdefault.jpg)](https://youtu.be/YmLPPfxwxNA)
+
 
 ## Commands
 
