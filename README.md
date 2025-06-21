@@ -1,4 +1,4 @@
-# Telegram AI  Bot
+# Telegram AI Bot
 
 A Telegram bot that provides personalized mood-based suggestions, conversation openers for introverts, and Data Structures & Algorithms (DSA) practice questions using AI (Databricks Llama 3).
 
@@ -9,6 +9,10 @@ A Telegram bot that provides personalized mood-based suggestions, conversation o
 - **DSA Practice:** Practice DSA topics with interactive questions and solutions.
 - **Fallbacks:** If AI is unavailable, the bot provides helpful fallback responses.
 
+## Flowchart
+
+![Bot Flowchart](FlowChart.png)
+
 ## Commands
 
 - `/start` - Welcome message and introduction
@@ -18,8 +22,6 @@ A Telegram bot that provides personalized mood-based suggestions, conversation o
 - `/help` - Show help message
 
 ## Setup
-
-
 
 0. Create a Telegram Bot
 
